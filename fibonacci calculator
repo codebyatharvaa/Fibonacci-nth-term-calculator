@@ -6,7 +6,6 @@ int fibo(int n){
 int main()
 {
     int n;
-    int fact=1;
     printf("Enter the number you wanna get fibonacchi of : ");
     scanf("%d",&n);
     int a = fibo(n);
